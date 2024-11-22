@@ -40,8 +40,10 @@ El código incluye el comando `debugger` en el bloque de validación del número
 3. Al ingresar un número de teléfono en el formulario, el flujo se pausará en el comando `debugger`.
 4. Desde allí, puedes inspeccionar variables como `phoneInput` o rastrear errores.
 =======
-# ejercicio3_Bootstrap
+
 
 Ejercicio Hospital clínico, 
 hecho con Bootstrap, metología BEM y sass 7-1
 >>>>>>> 81bb4b8988abe2c55c056434d10f8e3120426a1c
+>>>>>>>
+>>>>>>> https://cristinaguzman.github.io/taller2modulotres/
